@@ -7,6 +7,8 @@ iconId: button
 path: /catalog/material-button/
 -->
 
+# Button
+
 This customizable button component has updated visual styles. This button component has several built-in styles to support different levels of emphasis, as typically any UI will contain a few different buttons to indicate different actions.
 
 For more information, go to the material.io [Buttons](http://material.io/components/buttons) page.

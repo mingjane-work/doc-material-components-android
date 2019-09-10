@@ -74,7 +74,7 @@ Method | Description
 ### Example: Toggle group with buttons
 The following example shows a toggle group with outlined buttons.
 
-<img src="" alt="toggle button group with outlined buttons"
+<img src="" alt="toggle button group with outlined buttons">
 
 ```xml
 \* example code here *\
@@ -82,7 +82,7 @@ The following example shows a toggle group with outlined buttons.
 
 ### Example: Toggle group with icon toggle buttons over images
 
-<img src="" alt="toggle button group with icons buttons over images"
+<img src="" alt="toggle button group with icons buttons over images">
 
 ```xml
 \* example code here *\

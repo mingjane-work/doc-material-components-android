@@ -1,4 +1,4 @@
-!--docs:
+<!--docs:
 title: "Example Article: Android Material Toggle Group Button"
 layout: detail
 section: components
@@ -10,7 +10,7 @@ api_doc_root:
 
 # Material Button Toggle Group (Toggle button)
 
-`Material Button Toggle Group` is a customizable button component with updated visual styles.
+`Material Button Toggle Group` is a customizable button component with updated visual styles. It groups [MaterialButton](MaterialButtonExample.md) components.
 
 For more information, go to the material.io [Buttons](http://material.io/components/buttons) page.
 
